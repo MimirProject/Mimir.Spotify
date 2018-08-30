@@ -1,0 +1,9 @@
+/home/lucas/Documents/Git/Mimir.Spotify/content/src/bin/Debug/netstandard2.0/Mimir.Spotify.deps.json
+/home/lucas/Documents/Git/Mimir.Spotify/content/src/bin/Debug/netstandard2.0/Mimir.Spotify.dll
+/home/lucas/Documents/Git/Mimir.Spotify/content/src/bin/Debug/netstandard2.0/Mimir.Spotify.pdb
+/home/lucas/Documents/Git/Mimir.Spotify/content/src/obj/Debug/netstandard2.0/Mimir.Spotify.csprojAssemblyReference.cache
+/home/lucas/Documents/Git/Mimir.Spotify/content/src/obj/Debug/netstandard2.0/Mimir.Spotify.csproj.CoreCompileInputs.cache
+/home/lucas/Documents/Git/Mimir.Spotify/content/src/obj/Debug/netstandard2.0/Mimir.Spotify.AssemblyInfoInputs.cache
+/home/lucas/Documents/Git/Mimir.Spotify/content/src/obj/Debug/netstandard2.0/Mimir.Spotify.AssemblyInfo.cs
+/home/lucas/Documents/Git/Mimir.Spotify/content/src/obj/Debug/netstandard2.0/Mimir.Spotify.dll
+/home/lucas/Documents/Git/Mimir.Spotify/content/src/obj/Debug/netstandard2.0/Mimir.Spotify.pdb
